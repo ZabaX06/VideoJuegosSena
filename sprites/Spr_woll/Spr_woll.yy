@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "Spr_woll",
-  "bbox_bottom": 39,
-  "bbox_left": 23,
-  "bbox_right": 37,
-  "bbox_top": 28,
+  "bbox_bottom": 4,
+  "bbox_left": 0,
+  "bbox_right": 4,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5034483e-d0e0-4d3d-8f68-5608d693342d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6dccec99-c732-463d-b2af-a77e124bbc34",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 5,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1000bcdb-4f6f-47f6-b561-902080dffc8b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9929d81d-bb13-49ca-affb-43c482f72d23","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5034483e-d0e0-4d3d-8f68-5608d693342d","path":"sprites/Spr_woll/Spr_woll.yy",},},},"Disabled":false,"id":"c7855e7b-97f9-4fb6-bc46-21e93051fef0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6dccec99-c732-463d-b2af-a77e124bbc34","path":"sprites/Spr_woll/Spr_woll.yy",},},},"Disabled":false,"id":"e2a9d73f-b3da-43f0-b419-65431348954b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 5,
 }

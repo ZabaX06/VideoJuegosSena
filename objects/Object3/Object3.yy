@@ -4,6 +4,7 @@
   "name": "Object3",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"spr_caliche","path":"objects/spr_caliche/spr_caliche.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -37,5 +38,5 @@
     "path": "sprites/Spr_woll/Spr_woll.yy",
   },
   "spriteMaskId": null,
-  "visible": false,
+  "visible": true,
 }

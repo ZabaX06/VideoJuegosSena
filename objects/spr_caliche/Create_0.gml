@@ -1,3 +1,6 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
- y = y-crr;
+
+spd = 3;
+rcr =3;
+crr = 5;
