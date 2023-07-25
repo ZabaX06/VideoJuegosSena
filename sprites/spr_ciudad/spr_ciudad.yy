@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "Sprite6",
-  "bbox_bottom": 63,
-  "bbox_left": 23,
-  "bbox_right": 27,
-  "bbox_top": 0,
+  "name": "spr_ciudad",
+  "bbox_bottom": 895,
+  "bbox_left": 32,
+  "bbox_right": 959,
+  "bbox_top": 32,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"56749ee5-0798-4a34-b862-f3e5a567b4c1",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"fb5951f4-52f7-41a1-8a32-078627683d17",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 1024,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"c4ad047f-9ec3-4cba-9135-86c0d0019ee2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a711947a-314b-48a8-94a4-0c82100cc36a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "Sprite6",
+    "name": "spr_ciudad",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"56749ee5-0798-4a34-b862-f3e5a567b4c1","path":"sprites/Sprite6/Sprite6.yy",},},},"Disabled":false,"id":"ebfc26df-7a88-4482-8fdc-c193d42776e9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"fb5951f4-52f7-41a1-8a32-078627683d17","path":"sprites/spr_ciudad/spr_ciudad.yy",},},},"Disabled":false,"id":"bb37ccaf-3f39-46c7-9af8-35b82a1af9df","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 1024,
 }
