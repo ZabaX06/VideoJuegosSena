@@ -1,4 +1,4 @@
-/// @description Inserte aquí la descripción
+      /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 if (keyboard_check(vk_right)){
 	x = x+spd;
@@ -25,6 +25,16 @@ else {
 if (keyboard_check(ord("D"))){
 	x = x+spd;
 	sprite_index = spr_corriendo;
+	image_xscale = 1;
+}
+if (keyboard_check(ord("E"))){
+
+	sprite_index = Spr_ataque;
+	image_xscale = -1;
+}
+if (keyboard_check(ord("Q"))){
+
+	sprite_index = Spr_ataque;
 	image_xscale = 1;
 }
 else if (keyboard_check(ord("A"))){

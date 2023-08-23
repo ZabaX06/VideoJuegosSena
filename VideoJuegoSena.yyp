@@ -46,6 +46,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"arbolito","path":"objects/arbolito/arbolito.yy",},},
     {"id":{"name":"salior","path":"sprites/salior/salior.yy",},},
+    {"id":{"name":"Spr_ataque","path":"sprites/Spr_ataque/Spr_ataque.yy",},},
     {"id":{"name":"spr_corriendo","path":"sprites/spr_corriendo/spr_corriendo.yy",},},
     {"id":{"name":"arbol","path":"sprites/arbol/arbol.yy",},},
     {"id":{"name":"spr_ciudad","path":"sprites/spr_ciudad/spr_ciudad.yy",},},

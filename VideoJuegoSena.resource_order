@@ -28,6 +28,7 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"arbolito","order":3,"path":"objects/arbolito/arbolito.yy",},
     {"name":"salior","order":3,"path":"sprites/salior/salior.yy",},
+    {"name":"Spr_ataque","order":4,"path":"sprites/Spr_ataque/Spr_ataque.yy",},
     {"name":"spr_corriendo","order":1,"path":"sprites/spr_corriendo/spr_corriendo.yy",},
     {"name":"arbol","order":5,"path":"sprites/arbol/arbol.yy",},
     {"name":"spr_ciudad","order":6,"path":"sprites/spr_ciudad/spr_ciudad.yy",},
